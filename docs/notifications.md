@@ -4,4 +4,4 @@ StudentHub podrá notificar:
 - apertura de cursos;
 - cancelaciones.
 - confirmación de matrícula;
-- becas disponibles; 
+- becas disponibles. 
