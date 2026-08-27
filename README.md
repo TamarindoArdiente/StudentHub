@@ -1,1 +1,1 @@
-El proyecto será desarrollado colaborativamente utilizando Git y GitHub.
+StudentHub es una solución digital para administrar estudiantes y cursos universitarios.
